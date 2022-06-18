@@ -1,7 +1,8 @@
 # selenium_github
 selenium_Firefox_auth_github
 
-"**RU**"
+**RU**
+
 """   ИНСТРУКЦИЯ   """
 
 1) скачать "geckodriver.zip" и распаковать **(ЖЕЛАТЕЛЬНО ПОМЕСТИТЬ В ОДНУ ПАПКУ ВМЕСТЕ С ИСПОЛНЯЮЩИМ ФАЙЛОМ)**
@@ -10,7 +11,8 @@ selenium_Firefox_auth_github
 4) читать комментарии в исполняющей файле
 
 
-"**ENG**"
+**ENG**
+
 """ INSTRUCTIONS """
 
 1) download "geckodriver.zip" and unpack **(PREFERABLY PLACED IN THE SAME FOLDER WITH THE EXECUTABLE FILE)**
